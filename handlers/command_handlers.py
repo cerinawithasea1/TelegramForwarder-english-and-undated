@@ -767,6 +767,7 @@ async def handle_start_command(event):
     📱 Current version: v{VERSION}
 
     📖 Use /help to see the full command list
+    ⭐ GitHub: https://github.com/cerinawithasea1/TelegramForwarder-english-and-undated
 
     """
     await async_delete_user_message(event.client, event.message.chat_id, event.message.id, 0)
