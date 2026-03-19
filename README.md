@@ -1,6 +1,6 @@
 ![img](images/logo/png/logo-title.png)
 
-<h3><div align="center">Telegram 转发器 | Telegram Forwarder</div>
+<h3><div align="center">Telegram Forwarder — English Edition</div>
 
 ---
 
