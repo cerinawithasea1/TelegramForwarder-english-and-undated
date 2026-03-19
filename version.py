@@ -22,7 +22,7 @@ WELCOME_TEXT = """
 
 If you find this project useful, you can support it here:
 
-<blockquote>⭐ <b>Star the project:</b> <a href='https://github.com/cerinawithasea1/TelegramForwarder-english-and-undated'>TelegramForwarder (English)</a></blockquote>
+<blockquote>⭐ <b>Star the project:</b> <a href='https://github.com/cerinawithasea1/TelegramForwarder-english'>TelegramForwarder (English)</a></blockquote>
 
 Current version: v1.7.2
 Changelog: /changelog
